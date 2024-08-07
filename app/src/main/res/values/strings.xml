@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Motus</string>
+    <string name="done_button">Done</string>
+    <string name="delete_button">Delete</string>
+</resources>
