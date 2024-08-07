@@ -69,7 +69,7 @@ class MainScreenViewModel @Inject constructor(
         }
         selectedWord = wordsList.random()
 
-       Log.d(TAG, "startNewGame: $selectedWord")
+      // Log.d(TAG, "startNewGame: $selectedWord")
 
         if (selectedWord.isEmpty()) {
             return
